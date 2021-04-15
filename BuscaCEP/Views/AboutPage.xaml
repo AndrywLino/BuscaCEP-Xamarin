@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BuscaCEP.Views.AboutPage"
+             xmlns:vm="clr-namespace:BuscaCEP.ViewModels"
+             Title="{Binding Title}"
+             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps">
+    
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                    <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                </ContentView>
+            </StackLayout>
+        </StackLayout>
+        <ScrollView Grid.Row="1">
+            <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
+                <StackLayout>
+                    <Entry Placeholder="CEP" x:Name="EntVerificarCep"/>
+                    <Button Clicked="VerificarCEP" Text="Verificar CEP"/>
+                </StackLayout>
+                <StackLayout Padding="10">
+                    <Label Text="CEP" TextColor="White" x:Name="LblExibirCep" IsVisible="false"/>
+                    <Label Text="Logradouro" TextColor="White" x:Name="LblExibirLogradouro" IsVisible="false"/>
+                    <Label Text="Complemento" TextColor="White" x:Name="LblExibirComplemento" IsVisible="false"/>
+                    <Label Text="Bairro" TextColor="White" x:Name="LblExibirBairro" IsVisible="false"/>
+                    <Label Text="Localidade" TextColor="White" x:Name="LblExibirLocalidade" IsVisible="false"/>
+                    <Label Text="Uf" TextColor="White" x:Name="LblExibirUf" IsVisible="false"/>
+                    <Label Text="DDD" TextColor="White" x:Name="LblExibirDDD" IsVisible="false"/>
+                </StackLayout>
+                    <maps:Map x:Name="map" />
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+
+</ContentPage>
