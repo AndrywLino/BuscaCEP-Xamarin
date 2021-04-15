@@ -9657,76 +9657,79 @@ namespace BuscaCEP.Droid
 			public const int uiScrollGestures = 2130903702;
 			
 			// aapt resource value: 0x7F030297
-			public const int uiTiltGestures = 2130903703;
+			public const int uiScrollGesturesDuringRotateOrZoom = 2130903703;
 			
 			// aapt resource value: 0x7F030298
-			public const int uiZoomControls = 2130903704;
+			public const int uiTiltGestures = 2130903704;
 			
 			// aapt resource value: 0x7F030299
-			public const int uiZoomGestures = 2130903705;
+			public const int uiZoomControls = 2130903705;
 			
 			// aapt resource value: 0x7F03029A
-			public const int useCompatPadding = 2130903706;
+			public const int uiZoomGestures = 2130903706;
 			
 			// aapt resource value: 0x7F03029B
-			public const int useMaterialThemeColors = 2130903707;
+			public const int useCompatPadding = 2130903707;
 			
 			// aapt resource value: 0x7F03029C
-			public const int useViewLifecycle = 2130903708;
+			public const int useMaterialThemeColors = 2130903708;
 			
 			// aapt resource value: 0x7F03029D
-			public const int values = 2130903709;
+			public const int useViewLifecycle = 2130903709;
 			
 			// aapt resource value: 0x7F03029E
-			public const int verticalOffset = 2130903710;
+			public const int values = 2130903710;
 			
 			// aapt resource value: 0x7F03029F
-			public const int viewInflaterClass = 2130903711;
+			public const int verticalOffset = 2130903711;
 			
 			// aapt resource value: 0x7F0302A0
-			public const int voiceIcon = 2130903712;
+			public const int viewInflaterClass = 2130903712;
 			
 			// aapt resource value: 0x7F0302A1
-			public const int windowActionBar = 2130903713;
+			public const int voiceIcon = 2130903713;
 			
 			// aapt resource value: 0x7F0302A2
-			public const int windowActionBarOverlay = 2130903714;
+			public const int windowActionBar = 2130903714;
 			
 			// aapt resource value: 0x7F0302A3
-			public const int windowActionModeOverlay = 2130903715;
+			public const int windowActionBarOverlay = 2130903715;
 			
 			// aapt resource value: 0x7F0302A4
-			public const int windowFixedHeightMajor = 2130903716;
+			public const int windowActionModeOverlay = 2130903716;
 			
 			// aapt resource value: 0x7F0302A5
-			public const int windowFixedHeightMinor = 2130903717;
+			public const int windowFixedHeightMajor = 2130903717;
 			
 			// aapt resource value: 0x7F0302A6
-			public const int windowFixedWidthMajor = 2130903718;
+			public const int windowFixedHeightMinor = 2130903718;
 			
 			// aapt resource value: 0x7F0302A7
-			public const int windowFixedWidthMinor = 2130903719;
+			public const int windowFixedWidthMajor = 2130903719;
 			
 			// aapt resource value: 0x7F0302A8
-			public const int windowMinWidthMajor = 2130903720;
+			public const int windowFixedWidthMinor = 2130903720;
 			
 			// aapt resource value: 0x7F0302A9
-			public const int windowMinWidthMinor = 2130903721;
+			public const int windowMinWidthMajor = 2130903721;
 			
 			// aapt resource value: 0x7F0302AA
-			public const int windowNoTitle = 2130903722;
+			public const int windowMinWidthMinor = 2130903722;
 			
 			// aapt resource value: 0x7F0302AB
-			public const int yearSelectedStyle = 2130903723;
+			public const int windowNoTitle = 2130903723;
 			
 			// aapt resource value: 0x7F0302AC
-			public const int yearStyle = 2130903724;
+			public const int yearSelectedStyle = 2130903724;
 			
 			// aapt resource value: 0x7F0302AD
-			public const int yearTodayStyle = 2130903725;
+			public const int yearStyle = 2130903725;
 			
 			// aapt resource value: 0x7F0302AE
-			public const int zOrderOnTop = 2130903726;
+			public const int yearTodayStyle = 2130903726;
+			
+			// aapt resource value: 0x7F0302AF
+			public const int zOrderOnTop = 2130903727;
 			
 			static Attribute()
 			{
@@ -13628,205 +13631,208 @@ namespace BuscaCEP.Droid
 			public const int common_google_play_services_install_title = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int common_google_play_services_notification_ticker = 2131623976;
+			public const int common_google_play_services_notification_channel_name = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int common_google_play_services_unknown_issue = 2131623977;
+			public const int common_google_play_services_notification_ticker = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int common_google_play_services_unsupported_text = 2131623978;
+			public const int common_google_play_services_unknown_issue = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int common_google_play_services_update_button = 2131623979;
+			public const int common_google_play_services_unsupported_text = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int common_google_play_services_update_text = 2131623980;
+			public const int common_google_play_services_update_button = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int common_google_play_services_update_title = 2131623981;
+			public const int common_google_play_services_update_text = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int common_google_play_services_updating_text = 2131623982;
+			public const int common_google_play_services_update_title = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int common_google_play_services_wear_update_text = 2131623983;
+			public const int common_google_play_services_updating_text = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int common_open_on_phone = 2131623984;
+			public const int common_google_play_services_wear_update_text = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int common_signin_button_text = 2131623985;
+			public const int common_open_on_phone = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int common_signin_button_text_long = 2131623986;
+			public const int common_signin_button_text = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int copy_toast_msg = 2131623987;
+			public const int common_signin_button_text_long = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int error_icon_content_description = 2131623988;
+			public const int copy_toast_msg = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int exposed_dropdown_menu_content_description = 2131623989;
+			public const int error_icon_content_description = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int fab_transformation_scrim_behavior = 2131623990;
+			public const int exposed_dropdown_menu_content_description = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int fab_transformation_sheet_behavior = 2131623991;
+			public const int fab_transformation_scrim_behavior = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int fallback_menu_item_copy_link = 2131623992;
+			public const int fab_transformation_sheet_behavior = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int fallback_menu_item_open_in_browser = 2131623993;
+			public const int fallback_menu_item_copy_link = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int fallback_menu_item_share_link = 2131623994;
+			public const int fallback_menu_item_open_in_browser = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int hide_bottom_view_on_scroll_behavior = 2131623995;
+			public const int fallback_menu_item_share_link = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int icon_content_description = 2131623996;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int item_view_role_description = 2131623997;
+			public const int icon_content_description = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int material_slider_range_end = 2131623998;
+			public const int item_view_role_description = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int material_slider_range_start = 2131623999;
+			public const int material_slider_range_end = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int mtrl_badge_numberless_content_description = 2131624000;
+			public const int material_slider_range_start = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int mtrl_chip_close_icon_content_description = 2131624001;
+			public const int mtrl_badge_numberless_content_description = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int mtrl_exceed_max_badge_number_content_description = 2131624002;
+			public const int mtrl_chip_close_icon_content_description = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int mtrl_exceed_max_badge_number_suffix = 2131624003;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int mtrl_picker_a11y_next_month = 2131624004;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int mtrl_picker_a11y_prev_month = 2131624005;
+			public const int mtrl_picker_a11y_next_month = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int mtrl_picker_announce_current_selection = 2131624006;
+			public const int mtrl_picker_a11y_prev_month = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int mtrl_picker_cancel = 2131624007;
+			public const int mtrl_picker_announce_current_selection = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int mtrl_picker_confirm = 2131624008;
+			public const int mtrl_picker_cancel = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int mtrl_picker_date_header_selected = 2131624009;
+			public const int mtrl_picker_confirm = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int mtrl_picker_date_header_title = 2131624010;
+			public const int mtrl_picker_date_header_selected = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int mtrl_picker_date_header_unselected = 2131624011;
+			public const int mtrl_picker_date_header_title = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int mtrl_picker_day_of_week_column_header = 2131624012;
+			public const int mtrl_picker_date_header_unselected = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int mtrl_picker_invalid_format = 2131624013;
+			public const int mtrl_picker_day_of_week_column_header = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int mtrl_picker_invalid_format_example = 2131624014;
+			public const int mtrl_picker_invalid_format = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int mtrl_picker_invalid_format_use = 2131624015;
+			public const int mtrl_picker_invalid_format_example = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int mtrl_picker_invalid_range = 2131624016;
+			public const int mtrl_picker_invalid_format_use = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int mtrl_picker_navigate_to_year_description = 2131624017;
+			public const int mtrl_picker_invalid_range = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int mtrl_picker_out_of_range = 2131624018;
+			public const int mtrl_picker_navigate_to_year_description = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int mtrl_picker_range_header_only_end_selected = 2131624019;
+			public const int mtrl_picker_out_of_range = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int mtrl_picker_range_header_only_start_selected = 2131624020;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int mtrl_picker_range_header_selected = 2131624021;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int mtrl_picker_range_header_title = 2131624022;
+			public const int mtrl_picker_range_header_selected = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int mtrl_picker_range_header_unselected = 2131624023;
+			public const int mtrl_picker_range_header_title = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int mtrl_picker_save = 2131624024;
+			public const int mtrl_picker_range_header_unselected = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int mtrl_picker_text_input_date_hint = 2131624025;
+			public const int mtrl_picker_save = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624026;
+			public const int mtrl_picker_text_input_date_hint = 2131624026;
 			
 			// aapt resource value: 0x7F0E005B
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624027;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624027;
 			
 			// aapt resource value: 0x7F0E005C
-			public const int mtrl_picker_text_input_day_abbr = 2131624028;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624028;
 			
 			// aapt resource value: 0x7F0E005D
-			public const int mtrl_picker_text_input_month_abbr = 2131624029;
+			public const int mtrl_picker_text_input_day_abbr = 2131624029;
 			
 			// aapt resource value: 0x7F0E005E
-			public const int mtrl_picker_text_input_year_abbr = 2131624030;
+			public const int mtrl_picker_text_input_month_abbr = 2131624030;
 			
 			// aapt resource value: 0x7F0E005F
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624031;
+			public const int mtrl_picker_text_input_year_abbr = 2131624031;
 			
 			// aapt resource value: 0x7F0E0060
-			public const int mtrl_picker_toggle_to_day_selection = 2131624032;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624032;
 			
 			// aapt resource value: 0x7F0E0061
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624033;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624033;
 			
 			// aapt resource value: 0x7F0E0062
-			public const int mtrl_picker_toggle_to_year_selection = 2131624034;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624034;
 			
 			// aapt resource value: 0x7F0E0063
-			public const int overflow_tab_title = 2131624035;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624035;
 			
 			// aapt resource value: 0x7F0E0064
-			public const int password_toggle_content_description = 2131624036;
+			public const int overflow_tab_title = 2131624036;
 			
 			// aapt resource value: 0x7F0E0065
-			public const int path_password_eye = 2131624037;
+			public const int password_toggle_content_description = 2131624037;
 			
 			// aapt resource value: 0x7F0E0066
-			public const int path_password_eye_mask_strike_through = 2131624038;
+			public const int path_password_eye = 2131624038;
 			
 			// aapt resource value: 0x7F0E0067
-			public const int path_password_eye_mask_visible = 2131624039;
+			public const int path_password_eye_mask_strike_through = 2131624039;
 			
 			// aapt resource value: 0x7F0E0068
-			public const int path_password_strike_through = 2131624040;
+			public const int path_password_eye_mask_visible = 2131624040;
 			
 			// aapt resource value: 0x7F0E0069
-			public const int search_menu_title = 2131624041;
+			public const int path_password_strike_through = 2131624041;
 			
 			// aapt resource value: 0x7F0E006A
-			public const int status_bar_notification_info_overflow = 2131624042;
+			public const int search_menu_title = 2131624042;
+			
+			// aapt resource value: 0x7F0E006B
+			public const int status_bar_notification_info_overflow = 2131624043;
 			
 			static String()
 			{
@@ -16451,7 +16457,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 20
 			public const int AppCompatTextView_textLocale = 20;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F030026,0x7F03002F,0x7F030050,0x7F030060,0x7F030061,0x7F030062,0x7F030063,0x7F030064,0x7F03006A,0x7F03006B,0x7F03007D,0x7F030084,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300AB,0x7F0300AC,0x7F0300AD,0x7F0300AE,0x7F0300B5,0x7F0300B6,0x7F0300BD,0x7F0300CC,0x7F0300E5,0x7F0300E6,0x7F0300E7,0x7F0300EA,0x7F0300EC,0x7F0300F8,0x7F0300F9,0x7F0300FA,0x7F0300FB,0x7F0300FC,0x7F030147,0x7F030156,0x7F03018D,0x7F03018E,0x7F03018F,0x7F030190,0x7F030193,0x7F030194,0x7F030195,0x7F030196,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0301D7,0x7F0301D9,0x7F0301E3,0x7F0301E5,0x7F0301E6,0x7F0301E7,0x7F0301F2,0x7F0301F3,0x7F0301F4,0x7F0301F5,0x7F03020B,0x7F03020C,0x7F03022D,0x7F030254,0x7F030256,0x7F030257,0x7F030258,0x7F03025A,0x7F03025B,0x7F03025C,0x7F03025D,0x7F030260,0x7F030261,0x7F030284,0x7F030285,0x7F030286,0x7F030287,0x7F03029F,0x7F0302A1,0x7F0302A2,0x7F0302A3,0x7F0302A4,0x7F0302A5,0x7F0302A6,0x7F0302A7,0x7F0302A8,0x7F0302A9,0x7F0302AA }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F030026,0x7F03002F,0x7F030050,0x7F030060,0x7F030061,0x7F030062,0x7F030063,0x7F030064,0x7F03006A,0x7F03006B,0x7F03007D,0x7F030084,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300AB,0x7F0300AC,0x7F0300AD,0x7F0300AE,0x7F0300B5,0x7F0300B6,0x7F0300BD,0x7F0300CC,0x7F0300E5,0x7F0300E6,0x7F0300E7,0x7F0300EA,0x7F0300EC,0x7F0300F8,0x7F0300F9,0x7F0300FA,0x7F0300FB,0x7F0300FC,0x7F030147,0x7F030156,0x7F03018D,0x7F03018E,0x7F03018F,0x7F030190,0x7F030193,0x7F030194,0x7F030195,0x7F030196,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0301D7,0x7F0301D9,0x7F0301E3,0x7F0301E5,0x7F0301E6,0x7F0301E7,0x7F0301F2,0x7F0301F3,0x7F0301F4,0x7F0301F5,0x7F03020B,0x7F03020C,0x7F03022D,0x7F030254,0x7F030256,0x7F030257,0x7F030258,0x7F03025A,0x7F03025B,0x7F03025C,0x7F03025D,0x7F030260,0x7F030261,0x7F030284,0x7F030285,0x7F030286,0x7F030287,0x7F0302A0,0x7F0302A2,0x7F0302A3,0x7F0302A4,0x7F0302A5,0x7F0302A6,0x7F0302A7,0x7F0302A8,0x7F0302A9,0x7F0302AA,0x7F0302AB }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -16567,8 +16573,7 @@ namespace BuscaCEP.Droid
 					2130903685,
 					2130903686,
 					2130903687,
-					2130903711,
-					2130903713,
+					2130903712,
 					2130903714,
 					2130903715,
 					2130903716,
@@ -16577,7 +16582,8 @@ namespace BuscaCEP.Droid
 					2130903719,
 					2130903720,
 					2130903721,
-					2130903722};
+					2130903722,
+					2130903723};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -16954,7 +16960,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 124
 			public const int AppCompatTheme_windowNoTitle = 124;
 			
-			// aapt resource value: { 0x7F030036,0x7F030040,0x7F030042,0x7F030149,0x7F0301B6,0x7F0301C1,0x7F03029E }
+			// aapt resource value: { 0x7F030036,0x7F030040,0x7F030042,0x7F030149,0x7F0301B6,0x7F0301C1,0x7F03029F }
 			public static int[] Badge = new int[] {
 					2130903094,
 					2130903104,
@@ -16962,7 +16968,7 @@ namespace BuscaCEP.Droid
 					2130903369,
 					2130903478,
 					2130903489,
-					2130903710};
+					2130903711};
 			
 			// aapt resource value: 0
 			public const int Badge_backgroundColor = 0;
@@ -17632,7 +17638,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 4
 			public const int ExtendedFloatingActionButton_shrinkMotionSpec = 4;
 			
-			// aapt resource value: { 0x101000E,0x7F03003E,0x7F03003F,0x7F03004F,0x7F0300FD,0x7F030108,0x7F030120,0x7F030121,0x7F030140,0x7F03014A,0x7F0301B7,0x7F0301DE,0x7F0301EA,0x7F0301F7,0x7F0301FA,0x7F0301FE,0x7F03029A }
+			// aapt resource value: { 0x101000E,0x7F03003E,0x7F03003F,0x7F03004F,0x7F0300FD,0x7F030108,0x7F030120,0x7F030121,0x7F030140,0x7F03014A,0x7F0301B7,0x7F0301DE,0x7F0301EA,0x7F0301F7,0x7F0301FA,0x7F0301FE,0x7F03029B }
 			public static int[] FloatingActionButton = new int[] {
 					16842766,
 					2130903102,
@@ -17650,7 +17656,7 @@ namespace BuscaCEP.Droid
 					2130903543,
 					2130903546,
 					2130903550,
-					2130903706};
+					2130903707};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_android_enabled = 0;
@@ -18000,7 +18006,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 2
 			public const int LoadingImageView_imageAspectRatioAdjust = 2;
 			
-			// aapt resource value: { 0x7F03002A,0x7F03006E,0x7F03006F,0x7F030070,0x7F030071,0x7F030072,0x7F030073,0x7F030074,0x7F030179,0x7F03017A,0x7F03017B,0x7F03017C,0x7F03019C,0x7F03019F,0x7F030293,0x7F030294,0x7F030295,0x7F030296,0x7F030297,0x7F030298,0x7F030299,0x7F03029C,0x7F0302AE }
+			// aapt resource value: { 0x7F03002A,0x7F03006E,0x7F03006F,0x7F030070,0x7F030071,0x7F030072,0x7F030073,0x7F030074,0x7F030179,0x7F03017A,0x7F03017B,0x7F03017C,0x7F03019C,0x7F03019F,0x7F030293,0x7F030294,0x7F030295,0x7F030296,0x7F030297,0x7F030298,0x7F030299,0x7F03029A,0x7F03029D,0x7F0302AF }
 			public static int[] MapAttrs = new int[] {
 					2130903082,
 					2130903150,
@@ -18023,8 +18029,9 @@ namespace BuscaCEP.Droid
 					2130903703,
 					2130903704,
 					2130903705,
-					2130903708,
-					2130903726};
+					2130903706,
+					2130903709,
+					2130903727};
 			
 			// aapt resource value: 0
 			public const int MapAttrs_ambientEnabled = 0;
@@ -18081,19 +18088,22 @@ namespace BuscaCEP.Droid
 			public const int MapAttrs_uiScrollGestures = 17;
 			
 			// aapt resource value: 18
-			public const int MapAttrs_uiTiltGestures = 18;
+			public const int MapAttrs_uiScrollGesturesDuringRotateOrZoom = 18;
 			
 			// aapt resource value: 19
-			public const int MapAttrs_uiZoomControls = 19;
+			public const int MapAttrs_uiTiltGestures = 19;
 			
 			// aapt resource value: 20
-			public const int MapAttrs_uiZoomGestures = 20;
+			public const int MapAttrs_uiZoomControls = 20;
 			
 			// aapt resource value: 21
-			public const int MapAttrs_useViewLifecycle = 21;
+			public const int MapAttrs_uiZoomGestures = 21;
 			
 			// aapt resource value: 22
-			public const int MapAttrs_zOrderOnTop = 22;
+			public const int MapAttrs_useViewLifecycle = 22;
+			
+			// aapt resource value: 23
+			public const int MapAttrs_zOrderOnTop = 23;
 			
 			// aapt resource value: { 0x7F030037,0x7F030038,0x7F030039,0x7F03003A }
 			public static int[] MaterialAlertDialog = new int[] {
@@ -18246,7 +18256,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 20
 			public const int MaterialButton_strokeWidth = 20;
 			
-			// aapt resource value: { 0x101020D,0x7F0300E0,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0301E4,0x7F0302AB,0x7F0302AC,0x7F0302AD }
+			// aapt resource value: { 0x101020D,0x7F0300E0,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0301E4,0x7F0302AC,0x7F0302AD,0x7F0302AE }
 			public static int[] MaterialCalendar = new int[] {
 					16843277,
 					2130903264,
@@ -18254,9 +18264,9 @@ namespace BuscaCEP.Droid
 					2130903266,
 					2130903267,
 					2130903524,
-					2130903723,
 					2130903724,
-					2130903725};
+					2130903725,
+					2130903726};
 			
 			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F03015D,0x7F030166,0x7F030167,0x7F03016E,0x7F03016F,0x7F030173 }
 			public static int[] MaterialCalendarItem = new int[] {
@@ -18371,10 +18381,10 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 9
 			public const int MaterialCardView_strokeWidth = 9;
 			
-			// aapt resource value: { 0x7F03006C,0x7F03029B }
+			// aapt resource value: { 0x7F03006C,0x7F03029C }
 			public static int[] MaterialCheckBox = new int[] {
 					2130903148,
-					2130903707};
+					2130903708};
 			
 			// aapt resource value: 0
 			public const int MaterialCheckBox_buttonTint = 0;
@@ -18382,10 +18392,10 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 1
 			public const int MaterialCheckBox_useMaterialThemeColors = 1;
 			
-			// aapt resource value: { 0x7F03006C,0x7F03029B }
+			// aapt resource value: { 0x7F03006C,0x7F03029C }
 			public static int[] MaterialRadioButton = new int[] {
 					2130903148,
-					2130903707};
+					2130903708};
 			
 			// aapt resource value: 0
 			public const int MaterialRadioButton_buttonTint = 0;
@@ -18700,9 +18710,9 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F03029D }
+			// aapt resource value: { 0x7F03029E }
 			public static int[] RangeSlider = new int[] {
-					2130903709};
+					2130903710};
 			
 			// aapt resource value: 0
 			public const int RangeSlider_values = 0;
@@ -18790,7 +18800,7 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 0
 			public const int ScrollViewRendererTheme_scrollViewStyle = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F03009A,0x7F0300BE,0x7F0300E4,0x7F030137,0x7F030153,0x7F03017D,0x7F0301E1,0x7F0301E2,0x7F0301F0,0x7F0301F1,0x7F030221,0x7F030229,0x7F0302A0 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F03009A,0x7F0300BE,0x7F0300E4,0x7F030137,0x7F030153,0x7F03017D,0x7F0301E1,0x7F0301E2,0x7F0301F0,0x7F0301F1,0x7F030221,0x7F030229,0x7F0302A1 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
@@ -18808,7 +18818,7 @@ namespace BuscaCEP.Droid
 					2130903537,
 					2130903585,
 					2130903593,
-					2130903712};
+					2130903713};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -19190,9 +19200,9 @@ namespace BuscaCEP.Droid
 			// aapt resource value: 13
 			public const int SwitchCompat_trackTintMode = 13;
 			
-			// aapt resource value: { 0x7F03029B }
+			// aapt resource value: { 0x7F03029C }
 			public static int[] SwitchMaterial = new int[] {
-					2130903707};
+					2130903708};
 			
 			// aapt resource value: 0
 			public const int SwitchMaterial_useMaterialThemeColors = 0;

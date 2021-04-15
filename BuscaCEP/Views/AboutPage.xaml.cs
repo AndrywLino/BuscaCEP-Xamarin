@@ -2,6 +2,7 @@
 using RestSharp;
 using RestSharp.Serialization.Json;
 using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using Xamarin.Essentials;
 using Xamarin.Forms;
