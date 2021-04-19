@@ -96,7 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BuscaCEP\BuscaCEP.csproj">
-      <Project>{7C419C44-5382-42C6-A38A-664276F3F722}</Project>
+      <Project>{5FB92E08-4E07-4EDA-A693-4E1F81F6CBC4}</Project>
       <Name>BuscaCEP</Name>
     </ProjectReference>
   </ItemGroup>

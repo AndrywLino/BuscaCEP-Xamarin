@@ -1,38 +1,57 @@
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.deps.json
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\ref\BuscaCEP.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.csprojAssemblyReference.cache
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.AssemblyInfoInputs.cache
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.AssemblyInfo.cs
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.csproj.CoreCompileInputs.cache
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\ref\BuscaCEP.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.deps.json
-C:\AndrywProjects\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\ref\BuscaCEP.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP\bin\Debug\netstandard2.0\BuscaCEP.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.AssemblyInfoInputs.cache
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.AssemblyInfo.cs
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.csproj.CoreCompileInputs.cache
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\XamlC.stamp
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\ref\BuscaCEP.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP\obj\Debug\netstandard2.0\BuscaCEP.csprojAssemblyReference.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.deps.json
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/ref/BuscaCEP.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csprojAssemblyReference.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfoInputs.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfo.cs
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csproj.CoreCompileInputs.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/ref/BuscaCEP.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.deps.json
+C:/AndrywProjects/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/ref/BuscaCEP.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfoInputs.cache
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfo.cs
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csproj.CoreCompileInputs.cache
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/XamlC.stamp
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/ref/BuscaCEP.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csprojAssemblyReference.cache
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.deps.json
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/ref/BuscaCEP.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/bin/Debug/netstandard2.0/BuscaCEP.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfoInputs.cache
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.AssemblyInfo.cs
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csproj.CoreCompileInputs.cache
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/ref/BuscaCEP.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/obj/Debug/netstandard2.0/BuscaCEP.csprojAssemblyReference.cache

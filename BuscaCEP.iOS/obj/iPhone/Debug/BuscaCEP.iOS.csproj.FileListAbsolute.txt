@@ -1,130 +1,209 @@
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.iOS.exe
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.iOS.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Newtonsoft.Json.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\RestSharp.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Google.Maps.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.dll
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.pdb
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\optimized\
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csprojAssemblyReference.cache
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csproj.CoreCompileInputs.cache
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csproj.CopyComplete
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.exe
-C:\Users\junkf\source\repos\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.iOS.exe
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.iOS.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Newtonsoft.Json.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\RestSharp.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\Google.Maps.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.dll
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\bin\iPhone\Debug\BuscaCEP.pdb
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\optimized\
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csprojAssemblyReference.cache
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csproj.CoreCompileInputs.cache
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.csproj.CopyComplete
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.exe
-C:\AndrywProjects\BuscaCEP\BuscaCEP.iOS\obj\iPhone\Debug\BuscaCEP.iOS.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.exe
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Newtonsoft.Json.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.Serializers.Newtonsoft.Json.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.iOS.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Google.Maps.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.dll
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.pdb
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/optimized/
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csprojAssemblyReference.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CoreCompileInputs.cache
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CopyComplete
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.exe
+C:/Users/junkf/source/repos/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.exe
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Newtonsoft.Json.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.Serializers.Newtonsoft.Json.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.iOS.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Google.Maps.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.dll
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.pdb
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/optimized/
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csprojAssemblyReference.cache
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CoreCompileInputs.cache
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CopyComplete
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.exe
+C:/AndrywProjects/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.exe
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.iOS.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/RestSharp.Serializers.Newtonsoft.Json.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.IO.Compression.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.Net.Http.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.Security.Cryptography.Algorithms.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.Security.Cryptography.Encoding.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/System.Security.Cryptography.X509Certificates.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Xamarin.Forms.GoogleMaps.iOS.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/Google.Maps.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.dll
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/bin/iPhone/Debug/BuscaCEP.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csprojAssemblyReference.cache
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CoreCompileInputs.cache
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.csproj.CopyComplete
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.exe
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/BuscaCEP.iOS.pdb
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/actool/_PartialAppManifest.items
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/actool/_BundleResourceWithLogicalName.items
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/coremlc/_PartialAppManifest.items
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_about.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_about@2x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_about@3x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_feed.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_feed@2x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/icon_feed@3x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/xamarin_logo.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/xamarin_logo@2x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/xamarin_logo@3x.png
+/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/iPhone/Debug/device-builds/iphone11.8-14.4.2/optimized/
