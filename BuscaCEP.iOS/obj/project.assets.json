@@ -6417,39 +6417,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrywafonso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/andryw/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AndrywProjects\\BuscaCEP\\BuscaCEP.iOS\\BuscaCEP.iOS.csproj",
+      "projectUniqueName": "/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/BuscaCEP.iOS.csproj",
       "projectName": "BuscaCEP.iOS",
-      "projectPath": "C:\\AndrywProjects\\BuscaCEP\\BuscaCEP.iOS\\BuscaCEP.iOS.csproj",
-      "packagesPath": "C:\\Users\\andrywafonso\\.nuget\\packages\\",
-      "outputPath": "C:\\AndrywProjects\\BuscaCEP\\BuscaCEP.iOS\\obj\\",
+      "projectPath": "/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/BuscaCEP.iOS.csproj",
+      "packagesPath": "/Users/andryw/.nuget/packages/",
+      "outputPath": "/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andrywafonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/andryw/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\AndrywProjects\\BuscaCEP\\BuscaCEP\\BuscaCEP.csproj": {
-              "projectPath": "C:\\AndrywProjects\\BuscaCEP\\BuscaCEP\\BuscaCEP.csproj"
+            "/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/BuscaCEP.csproj": {
+              "projectPath": "/Volumes/MacOS Dados/Projetos/Codigos/Xamarin/BuscaCEP/BuscaCEP/BuscaCEP.csproj"
             }
           }
         }
